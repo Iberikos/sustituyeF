@@ -1,5 +1,5 @@
-origial = "tizas"
-nueva = "yesos"
+origial = input ("introduce una palabra: ")
+nueva = input ("introduce la nueva palabra: ")
 
 nombreF = "fichero.txt"
 
